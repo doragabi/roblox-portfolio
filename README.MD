@@ -102,6 +102,6 @@ Areas of contribution include:
 
 ## Contact
 
+**Email:** DoraAsync@gmail.com
 **Roblox:** DoraAsync  
 **Discord:** doragabi
-**Email:** DoraAsync@gmail.com
