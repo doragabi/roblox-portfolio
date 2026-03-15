@@ -2,7 +2,7 @@
 
 **Roblox Full-Stack Developer**  
 Lua • Luau • UI Design • VFX Design  
-Contributed to experiences with **20M+ total visits**
+Contributed to experiences with **20M+ total visits** (End of 2025 data)
 
 ---
 
