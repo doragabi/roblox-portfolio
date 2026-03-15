@@ -28,8 +28,6 @@ A large portion of past work involved **vehicle-based experiences and A-Chassis 
 ### Game Systems
 - DataStore systems
 - Player progression systems
-- Leaderboards and statistics
-- Teleportation systems
 - Server management
 - Scalable game frameworks
 
