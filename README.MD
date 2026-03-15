@@ -54,7 +54,6 @@ Examples:
 - player stat frameworks
 - modular game systems
 - server logic
-- scalable multiplayer architecture
 
 ### UI and Player Experience
 Design and scripting of responsive UI systems focused on usability and clarity.
