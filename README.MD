@@ -43,6 +43,14 @@ A large portion of past work involved **vehicle-based experiences and A-Chassis 
 - Feedback effects for gameplay systems
 - Vehicle Lighting/ELS Systems
 
+### UV-Mapped Texture/Livery Designs
+I can design textures and liveries for mesh parts within the game.
+
+Examples:
+- vehicle race livery
+- police car livery
+- recreate 1-1 real liveries
+
 ---
 
 ## Experience
@@ -62,14 +70,6 @@ Examples:
 - menus and HUD systems
 - animated UI elements
 - data-driven interfaces
-
-### UV-Mapped Texture/Livery Designs
-Design textures and liveries for mesh parts within the game.
-
-Examples:
-- vehicle race livery
-- police car livery
-- recreate 1-1 real liveries
 
 ### Technical Background
 Extensive work on **vehicle-focused games**, including deep familiarity with **A-Chassis systems and vehicle mechanics**.
