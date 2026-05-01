@@ -113,6 +113,9 @@ Roblox Vehicle lights and livery (2 yr old livery of mine)
 ![roblox](roblox1.png)
 ![roblox](roblox2.png)
 
-GTA 5 Vehicle lights and livery (just made this not long ago for a server)
+GTA 5 Vehicle lights and livery + UV mapped by me (just made this not long ago for a server)
 ![fivem](fivem.png)
+
+GTA 5 livery + UV mapped by me (just made this not long ago for a server)
+![fivem](fivem2.png)
 
