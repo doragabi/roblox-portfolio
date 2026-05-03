@@ -109,7 +109,7 @@ Areas of contribution include:
 
 ## Images
 
-Roblox Vehicle lights and livery (2 yr old livery of mine)
+Roblox Vehicle lights and livery (2 yr old work of mine, this was still in my private development time, no public game development, just passion)
 ![roblox](roblox1.png)
 ![roblox](roblox2.png)
 
