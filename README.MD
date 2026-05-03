@@ -1,4 +1,4 @@
-# DoraAsync (doragabi)
+# DoraAsync
 
 **Roblox Full-Stack Developer**  
 Lua • Luau • UI Design • VFX Design  
