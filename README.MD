@@ -8,7 +8,7 @@ Contributed to experiences with **20M+ total visits** (End of 2025 data)
 
 ## About Me
 
-Hi, I am a 16 year old Roblox full-stack developer living in hungary, focused on building scalable gameplay systems, clean architecture, and polished player experiences.
+Hi, I am a 17 year old Roblox full-stack developer living in hungary, focused on building scalable gameplay systems, clean architecture, and polished player experiences.
 My experience spans across **client and server scripting, UI systems/design, visual effects, and backend logic**. I tend to focus development on modular systems designed for performance and easy expansion.
 A large portion of past work involved **vehicle-based experiences and A-Chassis systems**, though development is not limited to vehicle frameworks. I started public game development at the end of september 2024.
 
