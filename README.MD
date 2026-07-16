@@ -103,9 +103,9 @@ Areas of contribution include:
 
 ## Contact
 
-- **Roblox:** DoraAsync  
+- **Roblox:** imnotasync  
 - **Discord:** not.async
-- **Email:** DoraAsync@gmail.com
+- **Email:** UNUSED FOR NOW
 
 ## Images
 
